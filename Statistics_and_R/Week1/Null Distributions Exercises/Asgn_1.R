@@ -1,4 +1,4 @@
-#####For these exercises, we will be using the following dataset:
+##### For these exercises, we will be using the following dataset:
 
 library(downloader) 
 url <- "https://raw.githubusercontent.com/genomicsclass/dagdata/master/inst/extdata/femaleControlsPopulation.csv"
